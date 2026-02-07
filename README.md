@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:78f2c9,100:e5e84a&height=180&text=Hello,%20I'm%20Jiwoo!&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=f2a6b9&height=180&text=Jiwoo's%20GitHub&animation=&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -16,7 +16,8 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
-          </div>
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <br/></div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -26,12 +27,3 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k17xrm&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k17xrm&layout=compact&theme=radical)
-
-</div>
-    
